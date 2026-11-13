@@ -1,0 +1,7 @@
+langgraph>=0.6
+langchain-core
+langchain-anthropic
+httpx
+pydantic
+playwright
+chromium
